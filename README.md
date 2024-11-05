@@ -20,30 +20,30 @@ Create a PowerBI Dashboard showing various parameters for attrition in the organ
 
 # Interpretation Highlights:
 
-# Age Distribution:
+### Age Distribution:
 Most clients are between 20–40, with fewer over 60, indicating younger clients are more engaged with term deposits.
-# Education Level:
+### Education Level:
 Majority of clients hold university or high school degrees, suggesting interest from educated individuals.
-# Marital Status:
+### Marital Status:
 Married clients dominate (61%), followed by singles (28%), which may imply financial planning due to family responsibilities.
-# Monthly Engagement:
+### Monthly Engagement:
 May is the peak month for campaigns, while other months show lower engagement, indicating a seasonal trend.
-# Default Status:
+### Default Status:
 Most clients (32,588) have no default, with a small number having an actual default, indicating financial stability.
-# Housing Status:
+### Housing Status:
 All records include housing data, useful for segmentation and targeting.
 
 # Suggestions:
 
-# Target Younger, Educated Clients:
+### Target Younger, Educated Clients:
 Develop tailored campaigns for the 20–40 age group, focusing on financial planning benefits.
-# Focus on Married Clients:
+### Focus on Married Clients:
 Offer family-oriented products, joint deposit options, or loyalty programs to appeal to married clients.
-# Boost Engagement in Off-Peak Months:
+### Boost Engagement in Off-Peak Months:
 Introduce special promotions in low-activity months to balance engagement throughout the year.
-# Clarify Default Status:
+### Clarify Default Status:
 Verify and update the ‘unknown’ default data to improve risk assessment and targeting.
-# Use Housing Data for Targeting:
+### Use Housing Data for Targeting:
 Segment campaigns by housing status, as homeowners may be more likely to invest in long-term products.
 
 This approach could drive conversions, enhance customer relationships, and improve risk management for term deposits.
